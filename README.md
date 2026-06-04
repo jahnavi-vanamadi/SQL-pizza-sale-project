@@ -105,7 +105,7 @@ Each query focuses on answering a specific business question.
 
 This query calculates the total number of orders placed by customers.
 
-![Total orders](assets\1_output.png)
+![Total orders](assets/1_output.png)
 
 ### Business Insight
 
@@ -119,7 +119,7 @@ This query calculates the total number of orders placed by customers.
 
 This query calculates total revenue generated from pizza sales.
 
-![Total Revenue Generated](assets\2_output.png)
+![Total Revenue Generated](assets/2_output.png)
 
 ### Business Insight
 
@@ -133,7 +133,7 @@ This query calculates total revenue generated from pizza sales.
 
 This query identifies the most expensive pizza on the menu.
 
-![Highest-Priced Pizza](assets\3_output.png)
+![Highest-Priced Pizza](assets/3_output.png)
 
 ### Business Insight
 
@@ -148,7 +148,7 @@ This query identifies the most expensive pizza on the menu.
 This query identifies the pizza size customers order most frequently.
 
 
-![Most Common Pizza Size Ordered](assets\4_output.png)
+![Most Common Pizza Size Ordered](assets/4_output.png)
 
 
 ### Business Insight
@@ -163,7 +163,7 @@ This query identifies the pizza size customers order most frequently.
 
 This query ranks pizzas by total quantity sold.
 
-![Top 5 Most Ordered Pizza Types](assets\5_output.png)
+![Top 5 Most Ordered Pizza Types](assets/5_output.png)
 
 ### Business Insight
 
@@ -177,7 +177,7 @@ This query ranks pizzas by total quantity sold.
 
 This query calculates total pizzas sold within each category.
 
-![Total Quantity Ordered by Pizza Category](assets\6_output.png)
+![Total Quantity Ordered by Pizza Category](assets/6_output.png)
 
 ### Business Insight
 
@@ -191,7 +191,7 @@ This query calculates total pizzas sold within each category.
 
 This query analyzes ordering activity throughout the day.
 
-![Distribution of Orders by Hour](assets\7_output.png)
+![Distribution of Orders by Hour](assets/7_output.png)
 
 ### Business Insight
 
@@ -205,7 +205,7 @@ This query analyzes ordering activity throughout the day.
 
 This query examines how pizza sales are distributed across categories.
 
-![Category-Wise Pizza Distribution](assets\8_output.png)
+![Category-Wise Pizza Distribution](assets/8_output.png)
 
 ### Business Insight
 
@@ -219,7 +219,7 @@ This query examines how pizza sales are distributed across categories.
 
 This query calculates daily average pizza sales.
 
-![Average Number of Pizzas Ordered Per Day](assets\9_output.png)
+![Average Number of Pizzas Ordered Per Day](assets/9_output.png)
 
 ### Business Insight
 
@@ -233,7 +233,7 @@ This query calculates daily average pizza sales.
 
 This query identifies pizzas generating the highest revenue.
 
-![Top 3 Pizza Types by Revenue](assets\10_output.png)
+![Top 3 Pizza Types by Revenue](assets/10_output.png)
 
 
 ### Business Insight
@@ -249,7 +249,7 @@ This query identifies pizzas generating the highest revenue.
 This query calculates each pizza's contribution to total revenue.
 
 ![Revenue Contribution Percentage by Pizza Type
-](assets\11_output.png)
+](assets/11_output.png)
 
 
 ### Business Insight
@@ -264,7 +264,7 @@ This query calculates each pizza's contribution to total revenue.
 
 This query tracks revenue growth over time using window functions.
 
-![Cumulative Revenue Analysis](assets\12_output.png)
+![Cumulative Revenue Analysis](assets/12_output.png)
 
 
 ### Business Insight
@@ -279,7 +279,7 @@ This query tracks revenue growth over time using window functions.
 
 This query ranks pizzas by revenue inside their respective categories.
 
-![Total orders](assets\1_output.png)
+![Total orders](assets/13_output.png)
 
 
 ### Business Insight
